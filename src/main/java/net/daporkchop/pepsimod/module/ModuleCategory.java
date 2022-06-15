@@ -26,6 +26,7 @@ public enum ModuleCategory {
     MISC,
     MOVEMENT,
     PLAYER,
+    HUD,
 
     PLACEHOLDER
 }
